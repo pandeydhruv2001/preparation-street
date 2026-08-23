@@ -28,5 +28,5 @@ int main() {
     int n;
     cout << "Enter a number: ";
     cin >> n;
-    divisors(n);  // Printing happens inside the function
+    divisors(n); 
 }
